@@ -1,70 +1,49 @@
-# Getting Started with Create React App
+# Maths Magicians
+In this project, I will be creating a *Math Magicians* repo. This will be done by first creating a feature branch then add a **README.md** file. Math magicians" is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to:
+- Make simple calculations.
+- Read a random math-related quote. The project will have a .gitignore file to ignore all unneccesary files together with two files for HTML and CSS.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Built With
+* Major Languages
+    - HTML
+    - CSS
+    - JavaScript
+    - React
 
-## Available Scripts
+# Live Demo
 
-In the project directory, you can run:
+# Getting Started
+To get a local copy up and running, follow these simple steps:
+## Usage
+First copy this repo and clone it on your machine using this [link](https://github.com/Ibnballo1/maths-website).
+Then cd into maths-website.
 
-### `npm start`
+## Install
+To install all packages:
+`npm install`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Build
+Run this comment to build the project
+`npm run build`
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Deployment
+Run `npm start` to deploy the project
 
-### `npm test`
+# Authors
+:adult: Abdullateef Bello
+- GitHub: [@Ibnballo1](https://www.github.com/Ibnballo1/)
+- Linkedin: [Abdullateef Bello](https://www.linkedin.com/in/abdullateef-bello-1b8006228/)
+- Twitter: [@webprotekh](https://twitter.com/webprotekh)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to check the [issues page](https://github.com/Ibnballo1/maths-website/issues)
 
-### `npm run build`
+# Show your support
+Kindly give a :hearts: if you like this.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Acknowledgement
+- I expressed my gratitude for everyone.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# License
+This project is [MIT](C:\Users\J T COMPUTER\Microverse-April18\Module3- REACT AND APPLICATION MATERIALS\Week 1\Maths\maths-website\MIT.md)
