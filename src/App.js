@@ -7,7 +7,7 @@ import Calculator from './components/Calculator';
 function App() {
   return (
     <div className="App">
-      <Calculator />
+      <Calculator my-props="t" />
     </div>
   );
 }
