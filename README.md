@@ -46,4 +46,4 @@ Kindly give a :hearts: if you like this.
 - I expressed my gratitude for everyone.
 
 # License
-This project is [MIT](C:\Users\J T COMPUTER\Microverse-April18\Module3- REACT AND APPLICATION MATERIALS\Week 1\Maths\maths-website\MIT.md)
+This project is [MIT](C:/Users/J T COMPUTER\Microverse-April18/Module3- REACT AND APPLICATION MATERIALS/Week 1/Maths/maths-website/MIT.md)
